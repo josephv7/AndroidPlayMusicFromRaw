@@ -10,6 +10,8 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
+//    TODO: Improve the code...add more features
+
     Button button;
 
     @Override
